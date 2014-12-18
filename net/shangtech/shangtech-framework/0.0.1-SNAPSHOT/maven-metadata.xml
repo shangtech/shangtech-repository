@@ -4,9 +4,6 @@
   <artifactId>shangtech-framework</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
-    <snapshot>
-      <localCopy>true</localCopy>
-    </snapshot>
     <lastUpdated>20141218051812</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
