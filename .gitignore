@@ -6,4 +6,4 @@ pom.xml.next
 release.properties
 /*
 !.gitignore
-!net/shangtech/shangtech-framework/
+!/net/shangtech/shangtech-framework/
